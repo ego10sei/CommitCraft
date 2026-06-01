@@ -17,7 +17,6 @@
   
   <br>
   
-  <img src="https://via.placeholder.com/800x450?text=CommitCraft+Screenshot" width="80%" style="border-radius: 16px;">
   
 </div>
 
